@@ -1,0 +1,15 @@
+Hello Laura,
+
+Automation is something I'm really passionate about! In my current role as a Technical Manager, I've been heavily involved in automation, from developing batch scripts for our laptop fleet, to creating and enhancing scenarios and APIs on "Make.com". "Make.com" in particular has helped me practice end-to-end testing while working on many different projects. I've played a key role in streamlining internal systems at Conference Badges, while honing my skills when facing clients, communicating technical requirements and project planning – all tools that seem the perfect fit for QA Wolf.
+
+I've led technical projects for clients such as Operation Golden Orb, Deutsche Bank, Deloitte, Ford and others. Working closely with clients and delivering results that exceed expectations is where I'm at my best.
+
+I've successfully completed a Tech Internship at La Fosse Academy in 2022, which introduced me to Jest, React Testing Library and testing in general. If I am to join QR Wolf, I would be thrilled to learn from other Engineers and expand my testing knowledge.
+
+In my opinion, one of my best qualities is my lack of pride. I have no issues admitting what I don't know, and I'm always eager to learn from anyone. This has not only allowed me to expand my skills, but also foster a collaborative environment among colleagues. Being open to learning from others is essential in any dynamic field, especially when new technologies and methodologies are constantly emerging. 
+
+Joining a team that values innovation, collaboration and continuous improvement is exactly what I'm looking for. I’m ready to learn and provide value to QA Wolf to the best of my ability and I’m certain that together we can make magic happen! 
+
+Looking forward to the opportunity to chat more!
+Best regards, 
+Albert Stoykov
