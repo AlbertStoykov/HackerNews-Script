@@ -28,16 +28,18 @@ node index.js
 
 Once the script is running, it will prompt you to choose whether you want a summary for each article. Type 'Y' for yes or 'N' for no, and press Enter.
 
-## CSV Output
+### CSV Output
 
-We evaluate candidates based on three criteria:
+If you choose not to receive summaries, the script will scrape the articles and directly write the data into a CSV file named hacker-news-top-10-articles.csv.
 
-- Technical ability (as demonstrated in the take home and final round)
-- Customer service orientation (as this role is customer facing)
-- Alignment with our values (captured [here](https://www.notion.so/qawolf/QA-Wolf-QA-Engineer-Remote-156203a1e476459ea5e6ffca972d0efe))
+### Excel Output
 
-This means whether we hire you is based on how you do during our interview process, not on your previous experience (or lack thereof). Note that you will also need to pass a background check to work here as our customers require this.
+If you opt for summaries, the script will:
 
-### How can I help my application stand out?
+1. Scrape the articles.
+2. Write initial data into a CSV file.
+3. Convert this CSV to an Excel file.
+4. Scrape AI-generated summaries for each article.
+5. Update the Excel file with these summaries.
 
-We've found that our best hires have been the most enthusiastic throughout our process. If you are very excited about working here, please feel free to go above and beyond on this assignment.
+The final Excel file will be saved as hacker-news-top-10-articles.xlsx.
