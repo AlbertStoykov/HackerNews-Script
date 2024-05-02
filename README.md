@@ -28,7 +28,7 @@ node index.js
 
 Once the script is running, it will prompt you to choose whether you want a summary for each article. Type 'Y' for yes or 'N' for no, and press Enter.
 
-### How do you decide who to hire?
+## CSV Output
 
 We evaluate candidates based on three criteria:
 
