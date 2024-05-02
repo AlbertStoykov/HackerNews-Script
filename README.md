@@ -4,31 +4,29 @@ This Node.js script scrapes the top 10 articles from Hacker News and allows user
 
 ## Features
 
-This assignment has two questions as outlined below. When you are done, send [laura@qawolf.com](mailto:laura@qawolf.com) a link to a zip file of this folder on Google Drive.
+- Web Scraping: Extracts the top 10 articles from Hacker News using Playwright.
+  Output Formats: Choose between CSV or Excel outputs.
+- AI Summaries: Optional AI-generated summaries for each article when opting for Excel output.
+- Interactive CLI: Interactive command-line prompts to guide through the process.
 
-### Question 1
+## Prerequisites
 
-In this assignment, you will create a basic script on [Hacker News](https://news.ycombinator.com/) using JavaScript and Microsoft's [Playwright](https://playwright.dev/) framework.
+- Node.js
+- npm (Node Package Manager)
 
-1. Install node modules by running `npm i`.
+## Installation
 
-2. Edit the `index.js` file in this project to go to [Hacker News](https://news.ycombinator.com/) and save the title and URL of the top 10 articles to a CSV file. You can run your script with the `node index.js` command.
+First, clone the repository to your local machine and navigate into the project directory. Then, install the necessary dependencies.
 
-Note that you are welcome to update Playwright or install other packages as you see fit.
+npm install
 
-### Question 2
+## Usage
 
-Why do you want to work at QA Wolf, in 250 words or less? Provide your answer in the `why_qa_wolf.txt` file in this project.
+To run the script, use the following command in the terminal:
 
-## Frequently Asked Questions
+node index.js
 
-### What is your hiring process? When will I hear about next steps?
-
-This take home assignment is the first step in our hiring process, followed by a final round interview if it goes well. **We review every take home assignment submission and promise to get back to you either way within one week (usually sooner).** The only caveat is if we are out of the office, in which case we will get back to you when we return. If it has been more than one week and you have not heard from us, please do follow up.
-
-The final round interview is a 2-hour technical work session that reflects what it is like to work here. We provide a $100 stipend for your time for the final round interview regardless of how it goes. After that, there may be a short chat with our director about your experience and the role.
-
-Our hiring process is rolling where we review candidates until we have filled our openings. If there are no openings left, we will keep your contact information on file and reach out when we are hiring again.
+Once the script is running, it will prompt you to choose whether you want a summary for each article. Type 'Y' for yes or 'N' for no, and press Enter.
 
 ### How do you decide who to hire?
 
