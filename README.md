@@ -44,4 +44,7 @@ If you opt for summaries, the script will:
 
 The final Excel file will be saved as hacker-news-top-10-articles.xlsx.
 
-### Excel Output
+### Important Notes
+
+- The script uses a headless browser to fetch and process web content. Ensure your firewall or network settings allow such operations.
+- AI summaries are fetched using an external service (SummarAIse, another project of mine), its quality or availability may vary.
