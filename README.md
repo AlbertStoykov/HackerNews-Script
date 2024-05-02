@@ -1,8 +1,8 @@
-# Hacker Rank Script
+# Hacker News Scraper
 
-Welcome to the QA Wolf take home assignment for our [QA Engineer](https://www.notion.so/qawolf/QA-Wolf-QA-Engineer-Remote-156203a1e476459ea5e6ffca972d0efe) role! We appreciate your interest and look forward to seeing what you come up with.
+This Node.js script scrapes the top 10 articles from Hacker News and allows users to output the data in either CSV format or an Excel file with optional AI-generated summaries for each article.
 
-## Instructions
+## Features
 
 This assignment has two questions as outlined below. When you are done, send [laura@qawolf.com](mailto:laura@qawolf.com) a link to a zip file of this folder on Google Drive.
 
