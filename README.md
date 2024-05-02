@@ -43,3 +43,5 @@ If you opt for summaries, the script will:
 5. Update the Excel file with these summaries.
 
 The final Excel file will be saved as hacker-news-top-10-articles.xlsx.
+
+### Excel Output
