@@ -227,7 +227,7 @@ async function updateExcelWithSummaries(workbook, worksheet, articles) {
   try {
     const buildExcel = await excelPrompt();
     if (buildExcel) {
-      const articles = await scrapeHackerNews(); // Await the scrapeHackerNews function
+      const articles = await scrapeHackerNews(); // Await scrapeHackerNews function
       const { workbook, worksheet } = await createExcelFile(); // Destructure workbook and worksheet
       await updateExcelWithSummaries(workbook, worksheet, articles); // Pass the worksheet object to the function
       console.log("Excel file and AI Summaries created successfully!");
