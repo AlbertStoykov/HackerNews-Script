@@ -69,7 +69,7 @@ async function scrapeHackerNews() {
   // Close Browser
   await browser.close();
 
-  return articles; // Return the articles array
+  return articles; // Return articles array
 }
 
 async function createExcelFile() {
