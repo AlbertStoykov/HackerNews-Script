@@ -79,7 +79,7 @@ async function createExcelFile() {
   // Read data from CSV using fast-csv
   const records = [];
   fs.createReadStream("hacker-news-top-10-articles.csv")
-    .pipe(csv.parse({ delimiter: ";" })) // Specify the delimiter
+    .pipe(csv.parse({ delimiter: ";" })) // Specify delimiter
     .on("data", (data) => {
       records.push(data);
     })
